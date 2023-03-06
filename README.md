@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ofcoursenp" alt="ofcoursenp" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently learning **Javascript**
 
 - 💬 Ask me about **Python , Django , JavaScript , REST API**
 
